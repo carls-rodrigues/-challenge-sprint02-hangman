@@ -234,3 +234,16 @@
   color: #495057;
   cursor: default;
 }
+.container footer {
+  font-family: 'Inter', sans-serif;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  font-size: 1.2rem;
+}
+.container footer a {
+  text-decoration: none;
+  color: #0A3871;
+  text-align: center;
+  vertical-align: middle;
+ }
